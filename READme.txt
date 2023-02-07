@@ -1,0 +1,2 @@
+- Use extension for create table in sql
+- PQ means UnitPrice * Quantity
